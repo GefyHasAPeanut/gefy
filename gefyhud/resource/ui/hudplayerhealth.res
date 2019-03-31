@@ -30,8 +30,8 @@
 		"zpos"			"4"
 		"wide"			"51"
 		"tall"			"51"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"scaleImage"	"1"	
 	}		
 	"PlayerStatusHealthImageBG"
@@ -42,8 +42,8 @@
 		"xpos_minmode"	"58"
 		"ypos"			"33"
 		"zpos"			"3"
-		"wide"			"55"
-		"tall"			"55"
+		"wide"			"0"
+		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/health_bg"
@@ -71,23 +71,64 @@
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"	
 	}
+	////////////////////////// HEALTH TEXT ////////////////////////////////
 	"PlayerStatusHealthValue"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"76"
+		"xpos"			"100"
 		"xpos_minmode"	"61"
-		"ypos"			"52"	[$WIN32]
+		"ypos"			"0"	[$WIN32]
 		"ypos"			"55"	[$X360]
 		"zpos"			"5"
-		"wide"			"50"
-		"tall"			"18"
+		"wide"			"250"
+		"tall"			"120"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"textAlignment"	"center"	
-		"font"			"LemonMilk24"
-		"fgcolor"		"TanDark"
+		"textAlignment"	"left"	
+		"font"			"LemonMilk72"
+		"fgcolor"		"White"
+	}
+	"PlayerStatusHealthShadow"
+	{
+		"ControlName"	"CExLabel"
+		"fieldName"		"PlayerStatusHealthShadow"
+		"xpos"			"102"
+		"xpos_minmode"	"61"
+		"ypos"			"02"	[$WIN32]
+		"ypos"			"55"	[$X360]
+		"zpos"			"4"
+		"wide"			"250"
+		"tall"			"120"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"%Health%"
+		"textAlignment"	"left"	
+		"font"			"LemonMilk72"
+		"fgcolor"		"50 50 50 255"
+	}
+	"TeamIndicator"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"TeamIndicator"
+		"xpos"			"80"
+		"ypos"			"43"	[$WIN32]
+		"zpos"			"2"
+		"wide"			"15"
+		"tall"			"35"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/color_panel_brown"
+		"scaleImage"	"1"
+		"teambg_1"		"../hud/color_panel_brown"
+		"teambg_2"		"../hud/color_panel_red"
+		"teambg_3"		"../hud/color_panel_blu"
+		
+		"arc_corner_height"		"40"
+		"arc_corner_width"		"40"
+		"draw_corner_width"		"-40"
+		"draw_corner_height"	"-40"
 	}
 	"PlayerStatusMaxHealthValue"
 	{
@@ -98,8 +139,8 @@
 		"ypos"			"20"	[$WIN32]
 		"ypos"			"55"	[$X360]
 		"zpos"			"6"
-		"wide"			"50"
-		"tall"			"18"
+		"wide"			"0"
+		"tall"			"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%MaxHealth%"

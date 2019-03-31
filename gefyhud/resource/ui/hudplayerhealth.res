@@ -53,7 +53,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"73"	[$WIN32]
+		"xpos"			"95"	[$WIN32]
 		"xpos_minmode"	"65"	[$WIN32]
 		"xpos"			"83"	[$X360]
 		"ypos"			"33"	[$WIN32]
@@ -106,7 +106,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"left"	
 		"font"			"LemonMilk72"
-		"fgcolor"		"50 50 50 255"
+		"fgcolor"		"Shadow"
 	}
 	"TeamIndicator"
 	{

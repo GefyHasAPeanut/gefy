@@ -18,6 +18,9 @@ Scheme
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
+		//gefyhud colors
+		"Shadow"			"50 50 50 255"
+		
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"

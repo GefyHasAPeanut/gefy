@@ -88,7 +88,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"left"	
 		"font"			"LemonMilk72"
-		"fgcolor"		"White"
+		"fgcolor"		"NeonGreen"
 	}
 	"PlayerStatusHealthShadow"
 	{
@@ -117,8 +117,8 @@
 		"zpos"			"2"
 		"wide"			"15"
 		"tall"			"35"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/color_panel_brown"
 		"scaleImage"	"1"
 		"teambg_1"		"../hud/color_panel_brown"

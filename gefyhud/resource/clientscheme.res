@@ -20,6 +20,8 @@ Scheme
 	{
 		//gefyhud colors
 		"Shadow"			"50 50 50 255"
+		"NeonGreen"			"17 255 0 255"
+		"NeonBlue"			"0 255 255 255"
 		
 		// base colors
 		"Orange"			"178 82 22 255"

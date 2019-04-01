@@ -88,7 +88,7 @@
 		"labelText"		"%Health%"
 		"textAlignment"	"left"	
 		"font"			"LemonMilk72"
-		"fgcolor"		"NeonGreen"
+		"fgcolor"		"White"
 	}
 	"PlayerStatusHealthShadow"
 	{
@@ -113,12 +113,12 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"TeamIndicator"
 		"xpos"			"80"
-		"ypos"			"43"	[$WIN32]
+		"ypos"			"44"	[$WIN32]
 		"zpos"			"2"
 		"wide"			"15"
-		"tall"			"35"
-		"visible"		"0"
-		"enabled"		"0"
+		"tall"			"33"
+		"visible"		"1"
+		"enabled"		"1"
 		"image"			"../hud/color_panel_brown"
 		"scaleImage"	"1"
 		"teambg_1"		"../hud/color_panel_brown"

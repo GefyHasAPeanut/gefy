@@ -44,30 +44,30 @@
 		"zpos"			"3"
 		"wide"			"0"
 		"tall"			"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/health_bg"
 		"scaleImage"	"1"	
 	}	
 	"PlayerStatusHealthBonusImage"
 	{
-		"ControlName"	"ImagePanel"
+		"ControlName"	
 		"fieldName"		"PlayerStatusHealthBonusImage"
-		"xpos"			"95"	[$WIN32]
+		"xpos"			"999999999999999999999999"	[$WIN32]
 		"xpos_minmode"	"65"	[$WIN32]
 		"xpos"			"83"	[$X360]
-		"ypos"			"33"	[$WIN32]
+		"ypos"			"999999999999999999999999"	[$WIN32]
 		"ypos_minmode"	"40"	[$WIN32]
 		"ypos"			"43"	[$X360]
 		"zpos"			"2"
-		"wide"			"55"	[$WIN32]
+		"wide"			"0"	[$WIN32]
 		"wide_minmode"	"40"	[$WIN32]
 		"wide"			"35"	[$X360]
-		"tall"			"55"	[$WIN32]
+		"tall"			"0"	[$WIN32]
 		"tall_minmode"	"40"	[$WIN32]
 		"tall"			"35"	[$X360]
 		"visible"		"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../hud/health_over_bg"
 		"scaleImage"	"1"	
 	}
@@ -77,9 +77,7 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
 		"xpos"			"100"
-		"xpos_minmode"	"61"
 		"ypos"			"0"	[$WIN32]
-		"ypos"			"55"	[$X360]
 		"zpos"			"5"
 		"wide"			"250"
 		"tall"			"120"
@@ -113,10 +111,10 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"TeamIndicator"
 		"xpos"			"80"
-		"ypos"			"44"	[$WIN32]
+		"ypos"			"36"	[$WIN32]
 		"zpos"			"2"
 		"wide"			"15"
-		"tall"			"33"
+		"tall"			"50"
 		"visible"		"1"
 		"enabled"		"1"
 		"image"			"../hud/color_panel_brown"
@@ -129,6 +127,34 @@
 		"arc_corner_width"		"40"
 		"draw_corner_width"		"-40"
 		"draw_corner_height"	"-40"
+	}
+	"OverHealBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"OverHealBG"
+		"xpos"			"95"
+		"ypos"			"36"
+		"zpos"			"3"
+		"wide"			"85"
+		"tall"			"50"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"0 213 255"
+		"alpha"			"0"
+	}
+	"LowHPBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"LowHPBG"
+		"xpos"			"95"
+		"ypos"			"36"
+		"zpos"			"3"
+		"wide"			"85"
+		"tall"			"50"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"255 0 43"
+		"alpha"			"0"
 	}
 	"PlayerStatusMaxHealthValue"
 	{

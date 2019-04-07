@@ -76,7 +76,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"100"
+		"xpos"			"6"
 		"ypos"			"0"	[$WIN32]
 		"zpos"			"5"
 		"wide"			"250"
@@ -84,7 +84,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"textAlignment"	"left"	
+		"textAlignment"	"center"	
 		"font"			"LemonMilk72"
 		"fgcolor"		"White"
 	}
@@ -92,7 +92,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthShadow"
-		"xpos"			"102"
+		"xpos"			"8"
 		"xpos_minmode"	"61"
 		"ypos"			"02"	[$WIN32]
 		"ypos"			"55"	[$X360]
@@ -102,7 +102,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"labelText"		"%Health%"
-		"textAlignment"	"left"	
+		"textAlignment"	"center"	
 		"font"			"LemonMilk72"
 		"fgcolor"		"Shadow"
 	}
@@ -115,8 +115,8 @@
 		"zpos"			"2"
 		"wide"			"15"
 		"tall"			"50"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/color_panel_brown"
 		"scaleImage"	"1"
 		"teambg_1"		"../hud/color_panel_brown"
@@ -132,7 +132,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"OverHealBG"
-		"xpos"			"95"
+		"xpos"			"90"
 		"ypos"			"36"
 		"zpos"			"3"
 		"wide"			"85"
@@ -146,7 +146,7 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"LowHPBG"
-		"xpos"			"95"
+		"xpos"			"90"
 		"ypos"			"36"
 		"zpos"			"3"
 		"wide"			"85"

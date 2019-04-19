@@ -3114,6 +3114,44 @@ Scheme
 			}
 		}
 		
+		LemonMilkLight4
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk light"
+				"tall"		"4"
+				"antialias" "1"
+			}
+		}
+		LemonMilkLight6
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk light"
+				"tall"		"6"
+				"antialias" "1"
+			}
+		}
+		LemonMilkLight8
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk light"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		
+		LemonMilkLight10
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk light"
+				"tall"		"10"
+				"antialias" "1"
+			}
+		}
+		
 		LemonMilkLight12
 		{
 			"1"

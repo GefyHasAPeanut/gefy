@@ -1,5 +1,21 @@
 "Resource/HudLayout.res"
 {
+	"Crosshair"
+	{
+		"controlName"				"CExLabel"
+		"fieldName"					"Crosshair"
+		"visible"					"1"
+		"enabled"					"1"
+		"zpos"						"1"
+		"xpos"						"c-25"
+		"ypos"						"c-25"
+		"wide"						"50"
+		"tall"						"50"
+		"font"						"Crosshair"
+		"labelText"					"k"
+		"textAlignment"				"center"
+		"fgcolor"					"50 250 50 255"
+	}
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"
@@ -80,16 +96,10 @@
 		"fieldName"		"HudDemomanCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r80"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
-		"ypos"			"r21"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
-		"xpos"			"r112"	[$X360]
-		"ypos"			"r45"	[$X360]
-		"zpos"			"1"			// draw in front of ammo
-		"wide"			"60"
-		"wide_minmode"	"50"
-		"tall"			"8"
+		"xpos"			"c-105"	[$WIN32]	
+		"ypos"			"c85"	[$WIN32]
+		"wide"			"500"
+		"tall"			"50"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}	
@@ -99,16 +109,10 @@
 		"fieldName"		"HudBowCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r80"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
-		"ypos"			"r21"	[$WIN32]
-		"ypos_minmode"	"r40"	[$WIN32]
-		"xpos"			"r112"	[$X360]
-		"ypos"			"r45"	[$X360]
-		"zpos"			"1"			// draw in front of ammo
-		"wide"			"60"
-		"wide_minmode"	"50"
-		"tall"			"8"
+		"xpos"			"c-105"	[$WIN32]	
+		"ypos"			"c70"	[$WIN32]
+		"wide"			"500"
+		"tall"			"50"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
@@ -1025,14 +1029,12 @@
 		"fieldName"		"HudDemomanPipes"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r162"	[$WIN32]
-		"xpos_minmode"	"r110"	[$WIN32]
-		"ypos"			"r52"	[$WIN32]
-		"ypos_minmode"	"r30"	[$WIN32]
-		"xpos"			"r194"	[$X360]
-		"ypos"			"r74"	[$X360]
-		"wide"			"100"
+		"xpos"			"c-105"	[$WIN32]	
+		"ypos"			"c85"	[$WIN32]
+		"wide"			"500"
 		"tall"			"50"
+		"MeterFG"		"White"
+		"MeterBG"		"Gray"
 	}	
 
 	HudTeamGoal

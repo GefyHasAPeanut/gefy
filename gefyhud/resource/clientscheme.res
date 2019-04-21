@@ -3023,6 +3023,17 @@ Scheme
 		}
 		
 		/////////////////////////// GEFY FONTS TOP /////////////////////////////
+		"Crosshair"
+		{
+			"1"
+			{
+				"name"			"broeselhud Crosshairs"
+				"tall"			"24"
+				"antialias" 	"1"
+				"additive"		"0"
+				"outline"		"0"
+			}
+		}
 		
 		LemonMilk12
 		{
@@ -6058,6 +6069,11 @@ Scheme
 		{
 			"font" "resource/fonts/LemonMilkbold.otf"
 			"name" "Lemon/Milk bold"
+		}
+		"10"
+		{
+			"font" "resource/fonts/Crosshairs.ttf"
+			"name" "broeselhud Crosshairs"
 		}
 	}
 }

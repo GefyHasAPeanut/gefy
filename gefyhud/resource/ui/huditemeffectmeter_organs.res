@@ -5,16 +5,10 @@
 		"fieldName"		"HudItemEffectMeter"
 		"visible"		"1"
 		"enabled"		"1"
-		"x_offset"		"40"
-		"xpos"			"r174"	[$WIN32]
-		"ypos"			"r57"	[$WIN32]
-		"xpos_minmode"	"r52"	[$WIN32]
-		"ypos_minmode"	"r68"	[$WIN32]
-		"x_offset_minmode"		"0"	[$WIN32]
-		"xpos"			"r194"	[$X360]
-		"ypos"			"r124"	[$X360]
+		"xpos"			"c-240"	[$WIN32]
+		"ypos"			"c125"	[$WIN32]
 		"wide"			"100"
-		"tall"			"50"
+		"tall"			"100"
 		"MeterFG"		"White"
 		"MeterBG"		"Gray"
 	}
@@ -28,9 +22,9 @@
 		"zpos"			"0"
 		"wide"			"100"
 		"tall"			"50"
-		"visible"		"1"
+		"visible"		"0"
 		"visible_minmode"	"0"
-		"enabled"		"1"
+		"enabled"		"0"
 		"image"			"../hud/misc_ammo_area_horiz2_blue"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/misc_ammo_area_horiz2_red"
@@ -52,8 +46,8 @@
 		"tall"					"15"
 		"autoResize"			"1"
 		"pinCorner"				"2"
-		"visible"				"1"
-		"visible_minmode"		"1"
+		"visible"				"0"
+		"visible_minmode"		"0"
 		"textAlignment_minmode"			"west"
 		"enabled"				"1"
 		"tabPosition"			"0"
@@ -89,12 +83,11 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"40"
-		"xpos_minmode"			"12"
-		"ypos"					"10"
+		"xpos"					"25"
+		"ypos"					"0"
 		"zpos"					"2"
-		"wide"					"40"
-		"tall"					"20"	
+		"wide"					"44"
+		"tall"					"44"	
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
@@ -103,6 +96,27 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"HudFontMedium"
-	}	
+		"font"					"LemonMilk24"
+		"fgcolor_override"		"White"
+	}
+	"ItemEffectMeterCountShadow"
+	{
+		"ControlName"			"CExLabel"
+		"fieldName"				"ItemEffectMeterCountShadow"
+		"xpos"					"27"
+		"ypos"					"2"
+		"zpos"					"2"
+		"wide"					"44"
+		"tall"					"44"	
+		"pinCorner"				"2"
+		"visible"				"1"
+		"enabled"				"1"
+		"tabPosition"			"0"
+		"labelText"				"%progresscount%"
+		"textAlignment"			"north"
+		"dulltext"				"0"
+		"brighttext"			"0"
+		"font"					"LemonMilk24"
+		"fgcolor_override"		"Shadow"
+	}
 }

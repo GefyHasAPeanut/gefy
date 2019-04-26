@@ -40,6 +40,7 @@
 		"dulltext"				"0"
 		"brighttext"			"0"
 		"font"					"LemonMilkLight12"
+		"fgcolor_override"				"255 255 255 255"
 	}
 
 	"ChargeMeter"

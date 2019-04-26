@@ -192,11 +192,8 @@
 	CHudAccountPanel
 	{
 		"fieldName"				"CHudAccountPanel"
-		"xpos"					"r162"	[$WIN32]
-		"ypos"					"r152"	[$WIN32]
-		"ypos_minmode"			"r134"	[$WIN32]
-		"xpos"					"r194"	[$X360]
-		"ypos"					"r174"	[$X360]
+		"xpos"					"c-47"	[$WIN32]
+		"ypos"					"c-25"	[$WIN32]
 		"wide"					"116"
 		"tall"  				"180"
 		"visible" 				"1"
@@ -207,9 +204,9 @@
 	CHealthAccountPanel
 	{
 		"fieldName"				"CHealthAccountPanel"
-		"xpos"					"76"
+		"xpos"					"c-173"
 		"xpos_minmode"			"61"
-		"ypos"					"r152"
+		"ypos"					"c20"
 		"ypos_minmode"			"r134"
 		"wide"					"116"
 		"tall"  				"180"

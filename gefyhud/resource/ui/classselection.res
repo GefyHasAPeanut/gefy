@@ -956,7 +956,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"PaintBackgroundType"	"0"
-		"fillcolor"		"0 0 0 100"
+		"fillcolor"		"0 0 0 200"
 	}		
 	
 	"Footer" [$X360]

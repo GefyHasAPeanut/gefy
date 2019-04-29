@@ -477,61 +477,54 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"12"
-				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"480 599"
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"13"	[$WIN32]
 				"tall"		"20"	[$X360]
-				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"14"
-				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
 				"antialias"	"1"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"20"
-				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
 				"antialias"	"1"
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"24"
-				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
 				"antialias"	"1"
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
-				"weight"		"900"
 			}
 			"7"
 			{
-				"name"		"Arial"
+				"name"		"Lemon/Milk light"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
-				"weight"		"800"
 			}
 
 			
@@ -548,63 +541,56 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Arial"
+				"name"		"Lemon/Milk light"
 				"tall"		"11"
 				"range" 		"0x0000 0x00FF"
-				"weight"		"800"
 			}
 		}
 		"DefaultSmall"
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"12"
-				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"480 599"
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"13"
-				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"600 767"
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"14"
-				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"768 1023"
 				"antialias"	"1"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"20"
-				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"1024 1199"
 				"antialias"	"1"
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"22"
-				"weight"	"0"
 				"range"		"0x0000 0x017F"
 				"yres"	"1200 6000"
 				"antialias"	"1"
 			}
 			"6"
 			{
-				"name"		"Arial"
+				"name"		"Lemon/Milk light"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
-				"weight"		"0"
 			}
 		}
 
@@ -613,43 +599,38 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"12"
-				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"480 599"
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"12"
-				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"600 767"
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"12"
-				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"768 1023"
 				"antialias"	"1"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"14"
-				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1024 1199"
 				"antialias"	"1"
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"16"
-				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
 				"antialias"	"1"
@@ -659,60 +640,53 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"18"
-				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"480 599"
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"21"
-				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"600 767"
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"22"
-				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"768 1023"
 				"antialias"	"1"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"28"
-				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"		"1024 1199"
 				"antialias"	"1"
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"30"
-				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
 				"yres"	"1200 6000"
 				"antialias"	"1"
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"20"
 				"range" 		"0x0000 0x00FF"
-				"weight"		"900"
 			}
 			"7"
 			{
-				"name"		"Arial"
+				"name"		"Lemon/Milk light"
 				"tall"		"20"
 				"range" 		"0x0000 0x00FF"
-				"weight"		"800"
 			}
 		}
 		CenterPrintText
@@ -733,9 +707,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"6"
-				"weight"	"500"
 				"additive"	"0"
 				"antialias" "1"
 			}
@@ -744,38 +717,33 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"12"
-				"weight"	"700"
 				"yres"	"480 599"
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"13"	[$WIN32]
 				"tall"		"23"	[$X360]
-				"weight"	"700"
 				"yres"	"600 767"
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"14"
-				"weight"	"700"
 				"yres"	"768 1023"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"20"
-				"weight"	"700"
 				"yres"	"1024 1199"
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"24"
-				"weight"	"700"
 				"yres"	"1200 10000"
 			}
 		}
@@ -1224,7 +1192,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"8"
 				"weight"	"500"
 				"additive"	"0"
@@ -1235,7 +1203,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"9"
 				"weight"	"500"
 				"additive"	"0"
@@ -1246,7 +1214,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"8"
 				"tall_hidef"	"9"
 				"tall_lodef"	"10"
@@ -1259,7 +1227,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"8"
 				"tall_hidef"	"7"
 				"weight"	"500"
@@ -1384,7 +1352,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"  "Verdana"
+				"name"  "Lemon/Milk light"
 				"tall"  "28"
 				"weight" "0"
 				"additive" "1"
@@ -1508,7 +1476,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"13"
 				"tall_hidef"	"14"
 				"tall_lodef"	"17"
@@ -1579,7 +1547,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"6"
 				"weight"	"400"
 				"additive"	"0"
@@ -1590,7 +1558,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"Lemon/Milk light"
 				"tall"		"8"
 				"tall_hidef"	"10"
 				"tall_lodef"	"14"
@@ -1603,7 +1571,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Lemon/Milk light"
 				"tall"		"10"
 				"tall_hidef"	"12"
 				"tall_lodef"	"14"
@@ -1616,7 +1584,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Lemon/Milk"
 				"tall"		"14"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1628,7 +1596,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Lemon/Milk"
 				"tall"		"20"
 				"weight"	"500"
 				"range"		"0x0000 0x007F"	//	Basic Latin
@@ -1967,7 +1935,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"			"Arial Black"
+				"name"			"Lemon/Milk light Black"
 				"tall"			"8"
 				"tall_lodef"	"12"
 				"range" 		"0x0000 0x00FF"
@@ -2807,7 +2775,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Arial"
+				"name"		"Lemon/Milk light"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"

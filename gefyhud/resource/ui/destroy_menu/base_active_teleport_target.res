@@ -34,8 +34,7 @@
 		"enabled"		"1"
 		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg"
-		"iconColor"		"White"
-		"CornerRadius"	  "0"
+		"iconColor"		"255 255 255 255"
 	}
 	
 	"BuildingIcon"	
@@ -43,50 +42,15 @@
 		"ControlName"	"CIconPanel"
 		"fieldName"		"BuildingIcon"
 		"xpos"			"22"
-		"ypos"			"33"
+		"ypos"			"28"
 		"zpos"			"2"
 		"wide"			"56"
 		"tall"			"56"
 		"visible"		"1"
 		"enabled"		"1"
-		"scaleImage"	"0"	
+		"scaleImage"	"1"	
 		"icon"			"hud_menu_sentry_build"
 		"iconColor"		"255 255 255 255"
-	}
-	
-	"MetalIcon"	
-	{
-		"ControlName"	"CIconPanel"
-		"fieldName"		"MetalIcon"
-		"xpos"			"10"
-		"ypos"			"18"
-		"zpos"			"1"
-		"wide"			"10"
-		"tall"			"10"
-		"visible"		"1"
-		"enabled"		"1"
-		"scaleImage"	"1"	
-		"icon"			"ico_metal"
-		"iconColor"		"TanDarker"
-	}
-	
-	"CostLabel"
-	{	
-		"ControlName"	"CExLabel"
-		"fieldName"		"CostLabel"
-		"font"			"LemonMilkLight12"
-		"fgcolor"		"TanDarker"
-		"xpos"			"23"
-		"ypos"			"17"
-		"zpos"			"1"
-		"wide"			"84"
-		"tall"			"13"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		"labelText"		"%metal%"
-		"textAlignment"	"Left"	
 	}
 	
 	"ModeLabel"

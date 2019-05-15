@@ -751,7 +751,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Lemon/Milk"
 				"tall"		"24"
 				"tall_lodef"	"80"
 				"weight"	"500"
@@ -761,7 +761,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"TF2"
+				"name"		"Lemon/Milk"
 				"tall"		"32"
 				"tall_hidef"	"120"
 				"weight"	"500"
@@ -771,7 +771,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"TF2"
+				"name"		"Lemon/Milk"
 				"tall"		"44"
 				"weight"	"500"
 				"additive"	"0"
@@ -780,7 +780,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"TF2"
+				"name"		"Lemon/Milk"
 				"tall"		"48"
 				"weight"	"500"
 				"additive"	"0"
@@ -789,7 +789,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"TF2"
+				"name"		"Lemon/Milk"
 				"tall"		"52"
 				"weight"	"500"
 				"additive"	"0"
@@ -801,7 +801,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Lemon/Milk"
 				"tall"		"44"
 				"tall_lodef"	"52"
 				"weight"	"500"
@@ -814,7 +814,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Lemon/Milk"
 				"tall"		"35"
 				"tall_lodef"	"40"
 				"weight"	"500"
@@ -827,7 +827,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Lemon/Milk"
 				"tall"		"36"
 				"tall_hidef"	"48"
 				"weight"	"500"
@@ -839,7 +839,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Lemon/Milk"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -850,7 +850,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Lemon/Milk"
 				"tall"		"30"
 				"weight"	"500"
 				"additive"	"0"
@@ -861,7 +861,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Lemon/Milk"
 				"tall"		"24"
 				"tall_lodef"		"28"
 				"weight"	"500"
@@ -873,7 +873,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Lemon/Milk light"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -884,7 +884,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Lemon/Milk"
 				"tall"		"24"
 				"weight"	"500"
 				"additive"	"0"
@@ -895,7 +895,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Lemon/Milk"
 				"tall"		"18"
 				"weight"	"500"
 				"additive"	"0"
@@ -906,7 +906,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2"
+				"name"		"Lemon/Milk"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"18"
@@ -919,7 +919,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Lemon/Milk"
 				"tall"		"18"
 				"tall_hidef"	"24"
 				"tall_lodef"	"20"
@@ -932,7 +932,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Lemon/Milk"
 				"tall"		"14"
 				"tall_lodef"	"16"
 				"weight"	"500"
@@ -944,7 +944,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Lemon/Milk"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -955,7 +955,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Lemon/Milk"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -966,7 +966,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Lemon/Milk"
 				"tall"		"14"
 				"weight"	"500"
 				"additive"	"0"
@@ -978,7 +978,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Lemon/Milk light"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -989,7 +989,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Lemon/Milk light"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1001,7 +1001,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Lemon/Milk"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -1012,7 +1012,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Lemon/Milk"
 				"tall"		"4"
 				"weight"	"500"
 				"additive"	"0"
@@ -1023,7 +1023,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Lemon/Milk"
 				"tall"		"10"
 				"weight"	"500"
 				"additive"	"0"
@@ -1034,7 +1034,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Lemon/Milk"
 				"tall"		"16"
 				"weight"	"500"
 				"additive"	"0"
@@ -1045,7 +1045,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Lemon/Milk"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -1056,7 +1056,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Lemon/Milk light"
 				"tall"		"9"
 				"weight"	"0"
 				"additive"	"0"
@@ -1067,7 +1067,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Build"
+				"name"		"Lemon/Milk"
 				"tall"		"6"
 				"weight"	"0"
 				"additive"	"0"
@@ -1078,7 +1078,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Lemon/Milk light"
 				"tall"		"12"
 				"tall_hidef"	"14"
 				"tall_lodef"	"16"
@@ -1091,7 +1091,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"TF2 Secondary"
+				"name"		"Lemon/Milk light"
 				"tall"		"11"
 				"weight"	"500"
 				"additive"	"0"
@@ -3130,7 +3130,15 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		
+		LemonMilkLight11
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk light"
+				"tall"		"11"
+				"antialias" "1"
+			}
+		}
 		LemonMilkLight12
 		{
 			"1"
@@ -3567,8 +3575,9 @@ Scheme
 			"image"					"loadout_round_rect_selected"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
-			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"11"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
+			"fillcolor"				"32 32 32 255"
 		}
 		OutlinedDullGreyBox
 		{
@@ -3578,8 +3587,8 @@ Scheme
 			"image"					"loadout_round_rect"
 			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
-			"draw_corner_width"		"11"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"11"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		
 		TFThinLineBorder

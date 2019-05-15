@@ -493,7 +493,7 @@
 	{
 		"ControlName"	"CTFArrowPanel"
 		"fieldName"		"CaptureFlag"
-		"xpos"			"c-40"
+		"xpos"			"c-37"
 		"ypos"			"r77"	[$WIN32]
 		"ypos"			"r116"	[$X360]
 		"zpos"			"5"

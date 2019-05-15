@@ -82,7 +82,8 @@
 		"enabled"		"1"
 		"labelText"		"#game_respawntime_in_secs"
 		"textAlignment"		"center"
-		"font"			"LemonMilkLight16"
+		"font"			"LemonMilkLight12"
+		"fgcolor_override"		"White"
 	}
 	"BuyBackLabel"
 	{

@@ -128,7 +128,7 @@
 	{	
 		"ControlName"	"CExLabel"
 		"fieldName"		"NumberLabel"
-		"font"			"HudMenuNumberFont"
+		"font"			"Default"
 		"fgcolor"		"Black"
 		"xpos"			"0"
 		"ypos"			"98"

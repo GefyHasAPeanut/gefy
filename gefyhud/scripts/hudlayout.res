@@ -34,6 +34,7 @@
 		"enabled" "1"
 		"xpos"	"c100"	[$WIN32]
 		"ypos"	"c50"	[$WIN32]
+		"zpos"	"2"
 		"wide"	"250"
 		"tall"	"120"
 	}
@@ -54,16 +55,14 @@
 		"fieldName" "HudKothTimeStatus"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c-100"
+		"xpos"	"c-99"
 		"ypos"	"0"
 		"wide"	"200"
 		"tall"	"160"
 		
 		"blue_active_xpos"			"16"
-		"blue_active_xpos_minmode"	"55"
 	
 		"red_active_xpos"			"106"
-		"red_active_xpos_minmode"	"105"
 	}	
 
 	HudItemEffectMeter
@@ -841,8 +840,8 @@
 		"fieldName"				"WinPanel"
 		"visible"				"1"
 		"enabled"				"1"
-		"xpos"					"c-150"
-		"ypos"					"215"
+		"xpos"					"c-140"
+		"ypos"					"315"
 		"wide"					"300"
 		"tall"					"300"
 		"zpos"					"4"

@@ -109,8 +109,8 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
 		"font"			"LemonMilk48"
-		"xpos"			"2"			// align me to the left edge of the first selection
-		"ypos"			"-2"
+		"xpos"			"5"			// align me to the left edge of the first selection
+		"ypos"			"12"
 		"zpos"			"2"
 		"wide"			"300"
 		"tall"			"38"
@@ -131,8 +131,8 @@
 		"fieldName"		"TitleLabelDropshadow"
 		"font"			"LemonMilk48"
 		"fgcolor"		"Shadow"
-		"xpos"			"4"			// align me to the left edge of the first selection
-		"ypos"			"0"
+		"xpos"			"7"			// align me to the left edge of the first selection
+		"ypos"			"14"
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"38"

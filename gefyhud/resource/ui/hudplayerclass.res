@@ -176,9 +176,9 @@
 			"Sniper"
 			{
 				"fov"			"25"
-				"angles_x"		"0"
+				"angles_x"		"1"
 				"angles_y"		"260"
-				"angles_z"		"0"
+				"angles_z"		"2"
 				"origin_x"		"300"
 				"origin_y"		"40"
 				"origin_z"		"-42"

@@ -56,7 +56,7 @@
 			
 			"attriblabel"
 			{
-				"font"			"ItemFontAttribLarge"
+				"font"			"LemonMilk24"
 				"visible"		"0"
 			}
 			
@@ -239,7 +239,7 @@
 		
 		"attriblabel"
 		{
-			"font"			"ItemFontAttribLarge"
+			"font"			"LemonMilk24"
 			"xpos"			"0"
 			"ypos"			"0"
 			"zpos"			"2"

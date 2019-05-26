@@ -72,15 +72,15 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"NumberBg"
-		"xpos"			"41"
-		"ypos"			"99"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"0"
 		"wide"			"0"
 		"tall"			"0"
 		"visible"		"0"
 		"enabled"		"0"
-		"scaleImage"	"1"	
-		"icon"			"ico_key_blank"
+		"scaleImage"	"0"	
+		"icon"			""
 		"iconColor"		"255 255 255 255"
 	}
 	

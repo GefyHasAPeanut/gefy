@@ -178,43 +178,96 @@
 		"tileVertically" "0"
 	}				
 	
-	"classmodelpanel"
-	{
-		"ControlName"	"CTFPlayerModelPanel"
-		"fieldName"		"classmodelpanel"
-		
-		"xpos"			"c60"
-		"ypos"			"20"
-		"zpos"			"-1"		
-		"wide"			"270"
-		"tall"			"340"
-		"autoResize"	"0"
-		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
-		
-		"render_texture"	"0"
-		"fov"			"17"
-		"allow_rot"		"1"
-				
-		"model"
-		{
-			"force_pos"	"1"
-
-			"angles_x" "0"
-			"angles_y" "170"
-			"angles_z" "0"
-			"origin_x" "260"
-			"origin_y" "0"
-			"origin_z" "-43"
-			"frame_origin_x"	"0"
-			"frame_origin_y"	"0"
-			"frame_origin_z"	"0"
-			"spotlight" "1"
-		
-			"modelname"		""
-		}
-	}
+        "classmodelpanel"
+        {
+                "ControlName"   "CTFPlayerModelPanel"
+                "fieldName"             "classmodelpanel"
+                "zpos"                  "-2"           
+                "wide"                  "f0"
+                "tall"                  "f0"
+                "autoResize"    "0"
+                "pinCorner"             "0"
+                "visible"               "1"
+                "enabled"               "1"
+                               
+                "render_texture"        "0"
+                "fov"                   "20"
+                "allow_manip"           "1"
+               
+                                               
+                "model"
+                {
+                        "force_pos"     "1"
+ 
+                        "angles_x" "0"
+                        "angles_y" "170"
+                        "angles_z" "0"
+                        "origin_x" "700	"
+                        "origin_y" "-50"
+                        "origin_z" "-30"
+                        "frame_origin_x"        "260"
+                        "frame_origin_y"        "0"
+                        "frame_origin_z"        "-42"
+                        "spotlight" "1"
+                        "model_wide"    "300"
+                        "frame_wide"    "400"
+                       
+               
+                        "modelname"             ""
+                       
+                        "animation"
+                        {
+                                "name"          "PRIMARY"
+                                "activity"      "ACT_MP_STAND_PRIMARY"
+                                "default"       "1"
+                        }
+                        "animation"
+                        {
+                                "name"          "SECONDARY"
+                                "activity"      "ACT_MP_STAND_SECONDARY"
+                        }
+                        "animation"
+                        {
+                                "name"          "MELEE"
+                                "activity"      "ACT_MP_STAND_MELEE"
+                        }
+                        "animation"
+                        {
+                                "name"          "BUILDING"
+                                "activity"      "ACT_MP_STAND_BUILDING"
+                        }
+                        "animation"
+                        {
+                                "name"          "PDA"
+                                "activity"      "ACT_MP_STAND_PDA"
+                        }
+                        "animation"
+                        {
+                                "name"          "ITEM1"
+                                "activity"      "ACT_MP_STAND_ITEM1"
+                        }                                              
+                        "animation"
+                        {
+                                "name"          "ITEM2"
+                                "activity"      "ACT_MP_STAND_ITEM2"
+                        }                                                                      
+                        "animation"
+                        {
+                                "name"          "MELEE_ALLCLASS"
+                                "activity"      "ACT_MP_STAND_MELEE_ALLCLASS"
+                        }
+                        "animation"
+                        {
+                                "name"          "PRIMARY2"
+                                "activity"      "ACT_MP_STAND_PRIMARY"
+                        }
+                        "animation"
+                        {
+                                "name"          "SECONDARY2"
+                                "activity"      "ACT_MP_STAND_SECONDARY2"
+                        }
+                }
+        }
 	
 	"mouseoveritempanel"
 	{

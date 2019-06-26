@@ -49,7 +49,20 @@
 			"draw_corner_width"		"0"
 			"draw_corner_height"	"0"
 		}
-		
+		"GefyHudBlueBG"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"GefyHudBlueBG"
+			"xpos"					"105"
+			"ypos"					"23"
+			"zpos"					"3"
+			"wide"					"85"
+			"tall"					"22"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"0 140 255"
+			"alpha"			"255"
+		}
 		"RedScoreBG2"
 		{
 			"ControlName"			"ScalableImagePanel"
@@ -69,7 +82,19 @@
 			"draw_corner_width"		"0"
 			"draw_corner_height"	"0"
 		}
-		
+		"LowHPBG"
+		{
+			"ControlName"	"ImagePanel"
+			"fieldName"		"LowHPBG"
+			"xpos"					"190"
+			"ypos"					"23"
+			"zpos"					"3"
+			"wide"					"85"
+			"tall"					"22"
+			"visible"		"1"
+			"enabled"		"1"
+			"fillcolor"		"255 0 55 255"
+		}
 		"BlueTeamLabel"
 		{
 			"ControlName"			"CExLabel"
@@ -79,8 +104,8 @@
 			"labelText"				"%blueteamname%"
 			"textAlignment"			"west"
 			"xpos"					"110"
-			"ypos"					"26"
-			"zpos"					"3"
+			"ypos"					"22"
+			"zpos"					"5"
 			"wide"					"43"
 			"tall"					"20"
 			"autoResize"			"0"
@@ -157,8 +182,8 @@
 			"labelText"				"%redteamname%"
 			"textAlignment"			"east"
 			"xpos"					"227"
-			"ypos"					"26"
-			"zpos"					"3"
+			"ypos"					"22"
+			"zpos"					"5"
 			"wide"					"43"
 			"tall"					"20"
 			"autoResize"			"0"
@@ -300,22 +325,20 @@
 	
 	"ShadedBar"
 	{
-		"ControlName"				"ScalableImagePanel"
+		"ControlName"				"ImagePanel"
 		"fieldName"					"ShadedBar"
 		"xpos"						"60"
-		"ypos"						"91"
+		"ypos"						"87"
 		"zpos"						"2"
 		"wide"						"170"
-		"tall"						"71"
-		"autoResize"				"0"
-		"pinCorner"					"0"
-		"visible"					"1"
-		"enabled"					"1"
-		"image"						"../hud/color_panel_brown"
-		"src_corner_height"			"23"
-		"src_corner_width"			"23"
-		"draw_corner_width"			"0"
-		"draw_corner_height"		"0"
+		"tall"						"75"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"tabPosition"	"0"	
+		"fillcolor"		"0 0 0 220"
+		"PaintBackgroundType"	"0"
 	}
 	
 	"TopPlayersLabel"

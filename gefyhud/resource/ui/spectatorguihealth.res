@@ -78,7 +78,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"LemonMilkLight10"
+		"font"			"LemonMilk12"
 		"fgcolor"		"White"
 	}
 	"PlayerStatusPlayerLevel"

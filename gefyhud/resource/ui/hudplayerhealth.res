@@ -153,7 +153,7 @@
 		"tall"			"50"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"255 0 43"
+		"fillcolor"		"255 0 0"
 		"alpha"			"0"
 	}
 	"PlayerStatusMaxHealthValue"

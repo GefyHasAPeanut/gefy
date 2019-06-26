@@ -75,8 +75,8 @@
 		"tall"			"14"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/color_panel_blu"
 		"scaleImage"	"1"
 		
@@ -90,6 +90,20 @@
 			"visible"		"0"
 		}
 	}	
+	"GefyHudBlueBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"GefyHudBlueBG"
+		"xpos"			"106"
+		"ypos"			"0"
+		"zpos"			"-2"
+		"wide"			"45"
+		"tall"			"14"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"0 140 255"
+		"alpha"			"255"
+	}
 	"RedBG"
 	{
 		"ControlName"		"CTFImagePanel"
@@ -101,8 +115,8 @@
 		"tall"			"14"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/color_panel_red"
 		"scaleImage"	"1"
 		
@@ -115,21 +129,35 @@
 			"visible"		"0"
 		}
 	}
+	"LowHPBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"LowHPBG"
+		"xpos"			"151"
+		"ypos"			"0"
+		"zpos"			"-2"
+		"wide"			"45"
+		"tall"			"14"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"255 0 55"
+		"alpha"			"255"
+	}
 	"ShadedBar"
 	{
 		"ControlName"		"ImagePanel"
 		"fieldName"		"ShadedBar"
-		"xpos"			"111"
-		"ypos"			"15"
+		"xpos"			"106"
+		"ypos"			"10"
 		"zpos"			"-2"
-		"wide"			"81"
+		"wide"			"90"
 		"tall"			"16"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"	"0"	
-		"fillcolor"		"0 0 0 200"
+		"fillcolor"		"0 0 0 220"
 		"PaintBackgroundType"	"0"
 		
 		if_mvm

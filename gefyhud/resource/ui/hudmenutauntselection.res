@@ -20,59 +20,39 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"CustomBG"
-		"xpos"			"8"
-		"ypos"			"10"
-		"zpos"			"0"
-		"wide"			"457"
-		"tall"			"170"
+		"xpos"			"7"
+		"ypos"			"66"
+		"zpos"			"1"
+		"wide"			"454"
+		"tall"			"75"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"0 0 0 150"
+		"fillcolor"		"0 0 0 200"
 	}
-	"OutlineTop"
+	"DisguiseStatusBG"
 	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"Divider"
-		"xpos"			"8"
-		"ypos"			"10"
-		"zpos"			"1"
-		"wide"			"457"
-		"tall"			"2"
-		"fillcolor"		"255 255 255 255"
-	}
-	"OutlineLeft"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"Divider"
-		"xpos"			"8"
-		"ypos"			"10"
-		"zpos"			"1"
-		"wide"			"2"
-		"tall"			"170"
-		"fillcolor"		"255 255 255 255"
-	}
-	"OutlineBottom"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"Divider"
-		"xpos"			"8"
-		"ypos"			"180"
-		"zpos"			"8"
-		"wide"			"457"
-		"tall"			"2"
-		"fillcolor"		"255 255 255 255"
-	}
-	"OutlineRight"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"Divider"
-		"xpos"			"464"
-		"ypos"			"10"
-		"zpos"			"1"
-		"wide"			"2"
-		"tall"			"170"
-		"fillcolor"		"255 255 255 255"
-	}
+		"ControlName"		"CTFImagePanel"
+		"fieldName"		"DisguiseStatusBG"
+		"xpos"			"7"
+		"ypos"			"140"
+		"zpos"			"2"
+		"wide"			"454"
+		"tall"	 		"6"
+		"autoResize"		"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"image"			"../hud/color_panel_brown"
+		"scaleImage"		"1"
+		"teambg_1"		"../hud/color_panel_brown"
+		"teambg_2"		"../hud/color_panel_red"
+		"teambg_3"		"../hud/color_panel_blu"
+		
+		"src_corner_height"		"23"				// pixels inside the image
+		"src_corner_width"		"23"
+			
+		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+		
 	"IcoReelIcon"
 	{
 		"ControlName"	"CIconPanel"

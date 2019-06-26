@@ -34,8 +34,8 @@
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/color_panel_blu"
 		"scaleImage"	"1"
 		
@@ -48,6 +48,20 @@
 		{
 			"visible"		"0"
 		}
+	}
+	"GefyHudBlueBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"GefyHudBlueBG"
+		"xpos"			"5"
+		"ypos"			"50"
+		"zpos"			"-2"
+		"wide"			"315"
+		"tall"			"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"0 140 255"
+		"alpha"			"220"
 	}
 	"BlueTeamImage"
 	{
@@ -89,7 +103,7 @@
 		"fieldName"		"BlueLeaderAvatarBG"
 		"xpos"			"14"
 		"ypos"			"14"
-		"zpos"			"4"
+		"zpos"			"-1"
 		"wide"			"49"
 		"tall"			"49"
 		"visible"		"0"
@@ -106,8 +120,8 @@
 		"tall"			"20"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"image"			"../hud/color_panel_red"
 		"scaleImage"	"1"
 		
@@ -119,6 +133,19 @@
 		{
 			"visible"		"0"
 		}
+	}
+	"LowHPBG"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"LowHPBG"
+		"xpos"			"320"
+		"zpos"			"-2"
+		"ypos"			"50	"
+		"wide"			"315"
+		"tall"			"20"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"255 0 55 255"
 	}
 	"RedTeamImage"
 	{
@@ -173,10 +200,10 @@
 		"ControlName"		"EditablePanel"
 		"fieldName"		"MainBG"
 		"xpos"			"0"
-		"ypos"			"38"
-		"zpos"			"-1"
+		"ypos"			"33"
+		"zpos"			"2"
 		"wide"			"640"
-		"tall"			"410"
+		"tall"			"415"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -193,10 +220,10 @@
 		"ControlName"	"ImagePanel"
 		"fieldName"		"CustomBG"
 		"xpos"			"5"
-		"ypos"			"50"
+		"ypos"			"67"
 		"zpos"			"-1"
 		"wide"			"630"
-		"tall"			"270"
+		"tall"			"253"
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"0 0 0 200"
@@ -541,7 +568,7 @@
 		"autoresize"	"3"
 		"linespacing"	"18"
 		"linegap"		"0"
-		"fgcolor"		"blue"
+		"fgcolor"		"HUDBlueTeamSolid"
 		//"show_columns"	"1"
 		
 		if_mvm
@@ -565,7 +592,7 @@
 		"autoresize"	"3"
 		"linespacing"	"18"
 		"linegap"		"0"
-		"fgcolor"		"red"
+		"fgcolor"		"HUDRedTeamSolid"
 		//"show_columns"	"1"
 
  		if_mvm

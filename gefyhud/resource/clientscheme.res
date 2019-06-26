@@ -49,10 +49,10 @@ Scheme
 		"PartyMember5"	"255 118 108 255"
 		"PartyMember6"	"255 133 255 255"
 		
-		"White"				"235 235 235 255"
+		"White"				"255 255 255 255"
 		"Red"				"192 28 0 140"
 		"RedSolid"			"192 28 0 255"
-		"Blue"				"0 28 162 140"
+		"Blue"				"0 110 255 220"
 		"Yellow"			"251 235 202 255"
 		"TransparentYellow"	"251 235 202 140"
 		"BrightYellow"		"251 235 0 255"
@@ -65,15 +65,15 @@ Scheme
 		"TransparentLightBlack"	"0 0 0 90"
 		"FooterBGBlack"		"52 48 55 255"
 		
-		"HUDBlueTeam"		"104 124 155 127"
-		"HUDRedTeam"		"180 92 77 127"
+		"HUDBlueTeam"		"0 140 255 220"
+		"HUDRedTeam"		"255 0 55 220"
 		"HUDSpectator"		"124 124 124 127"
-		"HUDBlueTeamSolid"	"104 124 155 255"
-		"HUDRedTeamSolid"	"180 92 77 255"
+		"HUDBlueTeamSolid"	"0 140 255 255"
+		"HUDRedTeamSolid"	"255 0 55 255"
 		"HUDDeathWarning"	"255 0 0 255"
 		"HudWhite"			"255 255 255 255"
-		"HudOffWhite"		"200 187 161 255"
-		"HudBlack"			"65 65 65 255"
+		"HudOffWhite"		"255 255 255 255"
+		"HudBlack"			"0 0 0 255"
 		"ProgressBarBlue"	"91 122 142 255"
 		
 		"CreditsGreen"		"94 150 49 255"
@@ -102,7 +102,7 @@ Scheme
 		"HudTrainingHint"			"212 160 23 255"
 		
 		"TanDark"				"117 107 94 255"
-		"TanLight"				"235 226 202 255"
+		"TanLight"				"255 255 255 255"
 		"TanDarker"				"46 43 42 255"
 		
 		"StoreDarkTan"			"131 121 104 255"
@@ -3012,7 +3012,15 @@ Scheme
 				"antialias" "1"
 			}
 		}
-		
+		LemonMilk14
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"14"
+				"antialias" "1"
+			}
+		}
 		LemonMilk16
 		{
 			"1"

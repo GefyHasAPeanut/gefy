@@ -1,4 +1,4 @@
-"Resource/UI/destroy_menu/base_active.res"
+"Resource/UI/destroy_menu/dispenser_active.res"
 {
 	"ItemNameLabel"
 	{	
@@ -24,16 +24,16 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"ItemBackground"
-		"xpos"			"4"
-		"ypos"			"14"
+		"xpos"			"9999"
+		"ypos"			"9999"
 		"zpos"			"0"
 		"wide"			"98"
 		"tall"			"105"
 		"visible"		"1"
-		"enabled"		"0"
-		"scaleImage"	"0"	
+		"enabled"		"1"
+		"scaleImage"	"1"	
 		"icon"			"hud_menu_item_bg_outline"
-		"iconColor"		"White"
+		"iconColor"		"ProgressOffWhite"
 	}
 	
 	"DestroyIcon"	
@@ -56,11 +56,11 @@
 	{
 		"ControlName"	"CIconPanel"
 		"fieldName"		"BuildingIcon"
-		"xpos"			"10"
-		"ypos"			"16"
+		"xpos"			"29"
+		"ypos"			"32"
 		"zpos"			"2"
-		"wide"			"80"
-		"tall"			"80"
+		"wide"			"40"
+		"tall"			"40"
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"	
@@ -68,4 +68,40 @@
 		"iconColor"		"255 255 255 128"
 	}
 		
+	"NumberBg"	
+	{
+		"ControlName"	"CIconPanel"
+		"fieldName"		"NumberBg"
+		"xpos"			"41"
+		"ypos"			"99"
+		"zpos"			"0"
+		"wide"			"18"
+		"tall"			"18"
+		"visible"		"1"
+		"enabled"		"1"
+		"scaleImage"	"1"	
+		"icon"			"ico_key_blank"
+		"iconColor"		"255 255 255 255"
+	}
+	
+	"NumberLabel"
+	{	
+		"ControlName"	"CExLabel"
+		"fieldName"		"NumberLabel"
+		"font"			"HudMenuNumberFont"
+		"fgcolor"		"Black"
+		"xpos"			"0"
+		"ypos"			"98"
+		"zpos"			"1"
+		"wide"			"100"
+		"tall"			"18"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"labelText"		"2"
+		"textAlignment"	"Center"
+		"dulltext"		"1"
+		"brighttext"	"0"
+	}
 }

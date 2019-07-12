@@ -148,7 +148,7 @@
 		"ControlName"		"ImagePanel"
 		"fieldName"		"ShadedBar"
 		"xpos"			"106"
-		"ypos"			"10"
+		"ypos"			"12"
 		"zpos"			"-2"
 		"wide"			"90"
 		"tall"			"16"

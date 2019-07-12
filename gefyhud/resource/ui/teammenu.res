@@ -269,7 +269,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"wrap"			"0"
-		"font"			"surface12"
+		"font"			"LemonMilk12"
 		"fgcolor"		"white"
 	}
 

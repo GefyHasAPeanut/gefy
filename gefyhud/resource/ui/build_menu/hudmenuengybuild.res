@@ -19,11 +19,11 @@
 	{
 		"ControlName"	"ImagePanel"
 		"fieldName"		"CustomBG"
-		"xpos"			"0"
-		"ypos"			"10"
+		"xpos"			"7"
+		"ypos"			"60"
 		"zpos"			"0"
-		"wide"			"454"
-		"tall"			"75"
+		"wide"			"443"
+		"tall"			"80"
 		"visible"		"1"
 		"enabled"		"1"
 		"fillcolor"		"0 0 0 200"
@@ -89,8 +89,8 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabel"
 		"font"			"LemonMilk48"
-		"xpos"			"10"			// align me to the left edge of the first selection
-		"ypos"			"10"
+		"xpos"			"9999"			// align me to the left edge of the first selection
+		"ypos"			"9999"
 		"zpos"			"2"
 		"wide"			"300"
 		"tall"			"38"
@@ -110,8 +110,8 @@
 		"ControlName"	"CExLabel"
 		"fieldName"		"TitleLabelDropshadow"
 		"font"			"LemonMilk48"
-		"xpos"			"12"			// align me to the left edge of the first selection
-		"ypos"			"12"
+		"xpos"			"9999"			// align me to the left edge of the first selection
+		"ypos"			"9999"
 		"zpos"			"1"
 		"wide"			"300"
 		"tall"			"38"

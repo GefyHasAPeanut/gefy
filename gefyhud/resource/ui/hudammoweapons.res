@@ -75,7 +75,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"			"LemonMilk72"
+		"font"			"LemonMilk72B"
 		"fgcolor"		"Shadow"
 		"xpos"			"-187"
 		"ypos"			"4"
@@ -108,7 +108,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
-		"font"			"LemonMilk32"
+		"font"			"LemonMilk32B"
 		"fgcolor"		"Shadow"
 		"xpos"			"67"
 		"ypos"			"54"
@@ -141,7 +141,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
-		"font"			"LemonMilk72"
+		"font"			"LemonMilk72B"
 		"fgcolor"		"Shadow"
 		"xpos"			"12"
 		"ypos"			"44"

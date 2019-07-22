@@ -57,7 +57,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"fgcolor"		"Shadow"
-		"font"			"LemonMilk72"
+		"font"			"LemonMilk72B"
 	}
 	"IndividualChargesLabel"
 	{

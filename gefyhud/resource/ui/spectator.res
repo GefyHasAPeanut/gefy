@@ -290,8 +290,8 @@
 		"tall_hidef"	"70"
 		"tall_lodef"	"70"
 		"autoResize"		"0"
-		"pinCorner"		"00
-		"visible"		"1"
+		"pinCorner"		"0"
+		"visible"		"0"
 		"visible_minmode"		"0"
 		"enabled"		"0"
 		"labelText"		"%tip%"

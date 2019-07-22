@@ -951,8 +951,8 @@
 		"tall"			"12"
 		"autoResize"	"0"
 		"pinCorner"		"0"
-		"visible"		"1"
-		"enabled"		"1"
+		"visible"		"0"
+		"enabled"		"0"
 		"fgcolor"		"Shadow"
 
 		if_mvm
@@ -1360,8 +1360,8 @@
 			"tall"			"100"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}	
 		"Deaths"
 		{
@@ -1419,8 +1419,8 @@
 			"tall"			"100"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}	
 		":"
 		{
@@ -1455,8 +1455,8 @@
 			"tall"			"100"
 			"autoResize"	"0"
 			"pinCorner"		"0"
-			"visible"		"1"
-			"enabled"		"1"
+			"visible"		"0"
+			"enabled"		"0"
 		}	
 		"GameType"
 		{

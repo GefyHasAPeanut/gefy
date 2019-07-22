@@ -103,7 +103,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"LemonMilk72"
+		"font"			"LemonMilk72B"
 		"fgcolor"		"Shadow"
 	}
 	"TeamIndicator"

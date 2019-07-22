@@ -3099,8 +3099,114 @@ Scheme
 				"tall"		"72"
 				"antialias" "1"
 			}
-			
+		}		
+		LemonMilk12B
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"12"
+				"antialias" "1"
+				"blur"		"2"
+			}
+		}
+		LemonMilk14B
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"14"
+				"antialias" "1"
+				"blur"		"2"
+			}
+		}
+		LemonMilk16B
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"16"
+				"antialias" "1"
+				"blur"		"2"
+			}
+		}
 		
+		LemonMilk24B
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"24"
+				"antialias" "1"
+				"blur"		"2"				
+			}
+		}
+		
+		LemonMilk32B
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"32"
+				"antialias" "1"
+				"blur"		"2"				
+			}
+		}
+		
+		LemonMilk36B
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"36"
+				"antialias" "1"
+				"blur"		"2"				
+			}
+		}
+		
+		LemonMilk42B
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"42"
+				"antialias" "1"
+				"blur"		"2"				
+			}
+		}
+		
+		LemonMilk48B
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"48"
+				"antialias" "1"
+				"blur"		"2"				
+			}
+		}
+		
+		LemonMilk64B
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"64"
+				"antialias" "1"
+				"blur"		"2"
+			}
+		}
+		
+		LemonMilk72B
+		{
+			"1"
+			{
+				"name"		"Lemon/Milk"
+				"tall"		"72"
+				"antialias" "1"
+				"blur"		"2"				
+			}
+		}
 	
 		
 		LemonMilkLight4
@@ -3583,10 +3689,10 @@ Scheme
 			"backgroundtype"		"2"
 			
 			"image"					"loadout_round_rect_selected"
-			"src_corner_height"		"2"				// pixels inside the image
-			"src_corner_width"		"2"
-			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"2"	
+			"src_corner_height"		"24"				// pixels inside the image
+			"src_corner_width"		"24"
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 			"fillcolor"				"0 0 0 255"
 		}
 		OutlinedDullGreyBox
@@ -3595,10 +3701,10 @@ Scheme
 			"backgroundtype"		"2"
 			
 			"image"					"loadout_round_rect"
-			"src_corner_height"		"2"				// pixels inside the image
+			"src_corner_height"		"24"				// pixels inside the image
 			"src_corner_width"		"24"
-			"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
-			"draw_corner_height" 	"2"	
+			"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+			"draw_corner_height" 	"0"	
 		}
 		
 		TFThinLineBorder

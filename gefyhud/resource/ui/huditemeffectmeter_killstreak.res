@@ -114,7 +114,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"LemonMilk24"
+		"font"					"LemonMilk24B"
 		"font_minmode"			"HudFontSmall"
 		"fgcolor_override"		"Shadow"
 	}

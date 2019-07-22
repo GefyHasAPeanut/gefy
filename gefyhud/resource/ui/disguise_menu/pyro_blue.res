@@ -92,3 +92,4 @@
 		"dulltext"		"1"
 		"brighttext"	"0"
 	}
+}

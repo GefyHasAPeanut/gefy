@@ -113,7 +113,7 @@
 		"textAlignment"			"north"
 		"dulltext"				"0"
 		"brighttext"			"0"
-		"font"					"LemonMilk24"
+		"font"					"LemonMilk24B"
 		"fgcolor_override"		"Shadow"
 	}
 }

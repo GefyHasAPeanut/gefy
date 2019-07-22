@@ -127,7 +127,7 @@
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"LemonMilk24"
+			"font"			"LemonMilk24B"
 			"fgcolor"		"Shadow"
 		}		
 	}
@@ -201,7 +201,7 @@
 			"textAlignment"	"center"
 			"dulltext"		"0"
 			"brighttext"	"0"
-			"font"			"LemonMilk24"
+			"font"			"LemonMilk24B"
 			"fgcolor"		"Shadow"
 		}		
 	}				

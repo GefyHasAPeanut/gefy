@@ -3003,6 +3003,725 @@ Scheme
 			}
 		}
 		
+		
+		renogare6
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"6"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare8
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"8"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare10
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"10"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare12
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"12"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare14
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"14"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare16
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"16"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare18
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"18"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare20
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"20"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare22
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"22"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare24
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"24"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare26
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"26"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare28
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"28"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare30
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"30"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare32
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"32"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare34
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"34"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare36
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"36"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare38
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"38"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare40
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"40"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare42
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"42"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}		
+		renogare44
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"44"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare46
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"46"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare48
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"48"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare50
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"50"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare52
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"52"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare54
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"54"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare56
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"56"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare58
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"58"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare60
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"60"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare62
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"62"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare64
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"64"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare66
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"66"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare68
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"68"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare70
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"70"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+		renogare72
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"72"
+				"additive"									"0"
+				"antialias" 								"1"
+			}
+		}
+				
+		renogare6b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"6"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		
+		renogare8b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"8"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare10b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"10"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare12b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"12"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare14b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"14"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare16b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"16"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare18b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"18"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare20b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"20"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare22b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"22"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare24b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"24"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare26b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"26"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare28b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"28"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare30b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"30"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare32b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"32"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare34b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"34"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare36b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"36"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare38b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"38"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare40b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"40"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare42b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"42"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}		
+		renogare44b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"44"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+			
+		}
+		renogare46b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"46"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare48b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"48"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare50b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"50"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare52b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"52"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare54b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"54"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare56b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"56"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare58b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"58"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare60b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"60"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare62b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"62"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare64b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"64"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare66b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"66"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare68b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"68"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare70b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"70"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+		renogare72b
+		{
+			"1"
+			{
+				"name"										"Renogare Regular"
+				"tall"										"72"
+				"additive"									"0"
+				"antialias" 								"1"
+				"blur"										"2"
+			}
+		}
+
 		LemonMilk12
 		{
 			"1"
@@ -6167,6 +6886,12 @@ Scheme
 		{
 			"font" "resource/fonts/Crosshairs.ttf"
 			"name" "broeselhud Crosshairs"
+		}
+			Custom Font Files
+		"100" 
+		{
+			"font" 		"resource/scheme/fontfiles/Renogare-Regular.otf"
+			"name" 		"Renogare Regular"
 		}
 	}
 }

@@ -139,23 +139,10 @@
 		"tall"			"50"
 		"visible"		"1"
 		"enabled"		"1"
-		"fillcolor"		"0 213 255"
+		"fillcolor"		"HUDBlueTeamSolid"
 		"alpha"			"0"
 	}
-	"LowHPBG"
-	{
-		"ControlName"	"ImagePanel"
-		"fieldName"		"LowHPBG"
-		"xpos"			"90"
-		"ypos"			"36"
-		"zpos"			"3"
-		"wide"			"85"
-		"tall"			"50"
-		"visible"		"1"
-		"enabled"		"1"
-		"fillcolor"		"255 0 0"
-		"alpha"			"0"
-	}
+	
 	"PlayerStatusMaxHealthValue"
 	{
 		"ControlName"	"CExLabel"

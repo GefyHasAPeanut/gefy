@@ -233,8 +233,7 @@ event HudHealthDyingPulse
 {
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"255"		Linear 0.0 0.075
 	Animate	PlayerStatusHealthBonusImage 	Alpha		"0"			Linear 0.125 0.075
-	Animate LowHPBG					Alpha		"255"		Accel 0.0 0.0
-	Animate	PlayerStatusHealthValue		FgColor		"255 0 0 255"		Linear 0.0 0.1
+	Animate	PlayerStatusHealthValue		FgColor		"HUDRedTeamSolid"		Linear 0.0 0.1
 	Animate	PlayerStatusHealthValue 	FgColor		"White"		Linear 0.1 0.2
 	
 	RunEvent HudHealthDyingPulseLoop	0.25
@@ -250,7 +249,6 @@ event HudHealthDyingPulseStop
 {
 	StopEvent HudHealthDyingPulse 0.0
 	StopEvent HudHealthDyingPulseLoop 0.0
-	Animate LowHPBG					Alpha		"0"		Accel 0.0 0.0
 	Animate	PlayerStatusHealthValue 	FgColor		"White"		Linear 0.0 0.0001
 }
 
@@ -261,11 +259,11 @@ event HudLowAmmoPulse
 	Animate	HudWeaponLowAmmoImage		Alpha		"255"		Linear 0.0 0.075
 	Animate	HudWeaponLowAmmoImage		Alpha		"0"			Linear 0.125 0.075
 	Animate LowAmmoBG					Alpha		"0"		Accel 0.0 0.0
-	Animate	AmmoInClip		FgColor		"255 0 0 255"		Linear 0.0 0.1
+	Animate	AmmoInClip		FgColor		"HUDRedTeamSolid"		Linear 0.0 0.1
 	Animate	AmmoInClip 	FgColor		"White"		Linear 0.1 0.2
-	Animate	AmmoInReserve		FgColor		"255 0 0 255"		Linear 0.0 0.1
+	Animate	AmmoInReserve		FgColor		"HUDRedTeamSolid"		Linear 0.0 0.1
 	Animate	AmmoInReserve 	FgColor		"White"		Linear 0.1 0.2
-	Animate	AmmoNoClip		FgColor		"255 0 0 255"		Linear 0.0 0.1
+	Animate	AmmoNoClip		FgColor		"HUDRedTeamSolid"		Linear 0.0 0.1
 	Animate	AmmoNoClip 	FgColor		"White"		Linear 0.1 0.2
 	RunEvent HudLowAmmoPulseLoop	0.25
 }
